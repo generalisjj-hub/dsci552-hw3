@@ -1,0 +1,12 @@
+[project]
+name = "dsci552-hw3"
+version = "0.1.0"
+description = "DSCI 552 Homework 3"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel",
+    "jupytext",
+    "nbconvert",
+    "numpy",
+    "pandas",
+]
